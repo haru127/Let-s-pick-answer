@@ -1,0 +1,10 @@
+﻿  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\Project\shader\unlitTexturePS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\Project\shader\unlitTextureVS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\Project\shader\vertexLightingPS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\Project\shader\vertexLightingVS.cso
+  コード生成しています。
+  0 of 1623 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  GM31Game.vcxproj -> C:\Users\haruseiyamada\Desktop\GM31\Project\x64\Release\GM31Game.exe

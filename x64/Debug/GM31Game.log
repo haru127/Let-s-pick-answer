@@ -1,0 +1,118 @@
+﻿  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\角度\shader\unlitTexturePS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\角度\shader\unlitTextureVS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\角度\shader\vertexLightingPS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\Desktop\GM31\角度\shader\vertexLightingVS.cso
+  animationModel.cpp
+  ball.cpp
+  bodyCollision.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  bullet.cpp
+  burst.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  camera.cpp
+  collision.cpp
+  debug.cpp
+  enemy.cpp
+  enemyActionCollision.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyBullet.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyManager.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\desktop\gm31\角度\burst.cpp(96): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています burst.cpp)
+  enemyState.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyStateDefend.cpp
+  enemyStateLongDis.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyStateMiddleDis.cpp
+  enemyStateMiddleNearDis.cpp
+  enemyStateNear.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  explosion.cpp
+c:\users\haruseiyamada\desktop\gm31\角度\enemy.cpp(168): warning C4552: '!=': 式の結果が使用されていません (ソース ファイルをコンパイルしています enemy.cpp)
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\desktop\gm31\角度\bullet.cpp(115): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています bullet.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\bullet.cpp(118): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています bullet.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\enemybullet.cpp(118): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています enemyBullet.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\enemybullet.cpp(121): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています enemyBullet.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(113): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(151): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(154): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(210): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(246): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(251): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(254): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(350): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(385): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(388): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(443): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(477): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(482): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\collision.cpp(485): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています collision.cpp)
+  fade.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  field.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  game.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  hp.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  input.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\desktop\gm31\角度\explosion.cpp(96): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています explosion.cpp)
+  inputx.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  main.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  manager.cpp
+  meshField.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  mission.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  model.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  player.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  playerActionCollision.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  polygon2D.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  renderer.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  respornImage.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  result.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  rock.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\desktop\gm31\角度\meshfield.cpp(211): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています meshField.cpp)
+c:\users\haruseiyamada\desktop\gm31\角度\meshfield.cpp(212): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。 (ソース ファイルをコンパイルしています meshField.cpp)
+  select.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  shadow.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  sky.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  sound.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  sprite.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  spriteMove.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  title.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  tree.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  GM31Game.vcxproj -> C:\Users\haruseiyamada\Desktop\GM31\角度\x64\Debug\GM31Game.exe
