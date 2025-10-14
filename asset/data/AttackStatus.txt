@@ -1,0 +1,7 @@
+[Jab] Size:0.7 0.2 ZFrame:2 Angle:21.0 Speed:0.2 Damage:9.0 Dis:0.7 1.2
+[DownTilt] Size:0.7 0.5 ZFrame:3 Angle:45.0 Speed:0.1 Damage:7.0 Dis:0.8 0.95
+[ForwardTilt] Size:0.4 1.0 ZFrame:2 Angle:25.0 Speed:0.1 Damage:7.0 Dis:1.5 1.25
+[UpTilt] Size:0.4 1.5 ZFrame:2 Angle:60.0 Speed:0.005 Damage:7.0 Dis:0.5 0.95
+[Grab] Size:0.4 1.5 ZFrame:2 Angle:0.0 Speed:0.0 Damage:7.0 Dis:0.5 0.95
+
+

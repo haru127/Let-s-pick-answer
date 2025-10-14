@@ -1,0 +1,192 @@
+﻿  compilation object save succeeded; see C:\Users\haruseiyamada\ParentLet's\shader\unlitTexturePS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\ParentLet's\shader\unlitTextureVS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\ParentLet's\shader\vertexLightingPS.cso
+  compilation object save succeeded; see C:\Users\haruseiyamada\ParentLet's\shader\vertexLightingVS.cso
+  animationModel.cpp
+  ball.cpp
+  bodyCollision.cpp
+  bullet.cpp
+  burst.cpp
+  camera.cpp
+  collision.cpp
+  debug.cpp
+  enemy.cpp
+  enemyActionCollision.cpp
+  enemyBullet.cpp
+  enemyManager.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\parentlet's\burst.cpp(96): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  enemyName.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyState.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyStateDefend.cpp
+  enemyStateLongDis.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyStateMiddleDis.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  enemyStateMiddleNearDis.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\parentlet's\enemy.cpp(176): warning C4552: '!=': 式の結果が使用されていません
+  enemyStateNear.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\parentlet's\enemybullet.cpp(118): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\enemybullet.cpp(121): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(113): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(151): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(154): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(210): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(246): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(251): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(254): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(350): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(385): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(388): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(443): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(477): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(482): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\collision.cpp(485): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\bullet.cpp(115): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\bullet.cpp(118): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  explosion.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  fade.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  field.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  game.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  hp.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  imgui.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  imgui_demo.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  imgui_draw.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  imgui_impl_dx11.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\parentlet's\explosion.cpp(96): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  imgui_impl_win32.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  imgui_tables.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  imgui_widgets.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  input.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  inputx.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  main.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  manager.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  meshField.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  mission.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  model.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  name.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: 'DXGI_STATUS_OCCLUDED' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: 'DXGI_STATUS_CLIPPED' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: 'DXGI_STATUS_NO_REDIRECTION' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: 'DXGI_STATUS_NO_DESKTOP_ACCESS' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: 'DXGI_STATUS_MODE_CHANGED' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: 'DXGI_ERROR_INVALID_CALL' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: 'DXGI_ERROR_NOT_FOUND' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: 'DXGI_ERROR_MORE_DATA' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: 'DXGI_ERROR_UNSUPPORTED' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: 'DXGI_ERROR_DEVICE_REMOVED' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: 'DXGI_ERROR_DEVICE_HUNG' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: 'DXGI_ERROR_DEVICE_RESET' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: 'DXGI_ERROR_WAS_STILL_DRAWING' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: 'DXGI_ERROR_NONEXCLUSIVE' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: 'DXGI_ERROR_REMOTE_OUTOFMEMORY' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(917): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55923): note: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(918): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55932): note: 'D3D11_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(919): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55942): note: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d11.h(920): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55951): note: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': マクロが再定義されました。 (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: 'D3D10_ERROR_FILE_NOT_FOUND' の以前の定義を確認してください (ソース ファイルをコンパイルしています ImGUI\imgui_impl_dx11.cpp)
+  player.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  playerActionCollision.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  polygon2D.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  renderer.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  respornImage.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  result.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c:\users\haruseiyamada\parentlet's\meshfield.cpp(211): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\haruseiyamada\parentlet's\meshfield.cpp(212): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  rock.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  select.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  shadow.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  sky.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  sound.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  sprite.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  spriteMove.cpp
+  title.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  tree.cpp
+c1xx : warning C4199: 2 フェーズの名前参照は、C++/CLI、C++/CX、OpenMP ではサポートされていません。/Zc:twoPhase- を使用します
+  GM31Game.vcxproj -> C:\Users\haruseiyamada\ParentLet's\x64\Debug\GM31Game.exe
