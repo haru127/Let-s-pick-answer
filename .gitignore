@@ -1,0 +1,40 @@
+# ==============================
+# Unity / C++ プロジェクト向け
+# ビルド成果物や一時ファイル
+# ==============================
+
+# ビルド成果物
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio 関連
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ビルドログや一時ファイル
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.log
+*.iobj
+*.ipdb
+*.cache
+*.lastbuildstate
+
+# その他
+*.tmp
+*.DS_Store
+*.vscode/
+*.vs/
+
+# ==============================
+# Assets 以下をすべて無視
+# ==============================
+assets/
